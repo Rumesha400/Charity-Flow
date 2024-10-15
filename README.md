@@ -1,2 +1,2 @@
 # Charity-Flow
-Online Donation Website
+Charity Flow is a dynamic crowdfunding platform designed to simplify the process of supporting meaningful causes. Built with React, Vite, Tailwind CSS, and JavaScript on the frontend, and powered by a robust Django backend, it offers a seamless and responsive user experience. Inspired by the FundForMe website, Charity Flow enables users to effortlessly explore, create, and contribute to campaigns, driving positive change one donation at a time.
